@@ -1,3 +1,3 @@
 # Nombre del grupo: [Grupo 7]
 ## Curso: Herramientas de Desarrollo
-## Descripcion: Sistema inteligente que detecta la somnolencia de conductores en tiempo real mediante visión por computadora, generando alertas y sugiriendo lugares de descanso. Desarrollado con una app móvil y backend en Python.
+## Descripcion: Somos un equipo de estudiantes enfocados en el desarrollo de soluciones tecnológicas innovadoras. Nuestro objetivo es diseñar e implementar un sistema inteligente que permita detectar la somnolencia en conductores en tiempo real, utilizando visión por computadora, con el fin de mejorar la seguridad vial.
