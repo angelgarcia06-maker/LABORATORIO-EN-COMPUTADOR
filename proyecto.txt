@@ -1,0 +1,4 @@
+El proyecto consiste en el desarrollo de un sistema inteligente orientado a la seguridad vial, el cual permite detectar en tiempo real el nivel de fatiga de un conductor mediante el análisis de su rostro.
+A través del uso de visión por computadora, el sistema identifica patrones como el cierre prolongado de los ojos o movimientos involuntarios de la cabeza, los cuales son indicadores de cansancio.
+Cuando se detecta una condición de riesgo, la aplicación genera alertas auditivas para advertir al usuario, y adicionalmente puede sugerir lugares cercanos donde el conductor pueda detenerse a descansar, utilizando servicios de geolocalización.
+La arquitectura del sistema se basa en una aplicación móvil conectada a un backend desarrollado en Python, donde se realiza el procesamiento de imágenes, permitiendo así una solución modular, escalable y eficiente.
