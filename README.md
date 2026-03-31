@@ -1,2 +1,3 @@
-# LABORATORIO-EN-COMPUTADOR
-Taller S02 - Herramientas de desarrollo
+# Nombre del grupo: [Grupo 7]
+## Curso: Herramientas de Desarrollo
+## Descripcion: [Desarrollo semana 2]
